@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Furniture
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 924879253
+    locked: 0
+  - name: Floor
+    uniqueID: 2648396653
+    locked: 0
+  - name: Character
+    uniqueID: 3280731295
+    locked: 0
+  - name: Wall
+    uniqueID: 1410773771
+    locked: 0
+  - name: UI
+    uniqueID: 2119605899
+    locked: 0
+  m_RenderingLayers:
+  - Default
